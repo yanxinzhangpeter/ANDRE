@@ -6,7 +6,7 @@ patsy==0.4.0
 scikit-learn==0.15.2
 scipy==0.15.1
 six==1.9.0
-wheel==0.26.0
+wheel==0.38.1
 psutil>=2.1.1
 futures>=2.1.6
 argparse>=1.2.1
